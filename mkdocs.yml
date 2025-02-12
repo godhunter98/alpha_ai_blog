@@ -1,0 +1,42 @@
+site_name: "Alpha AI"
+site_description: "Insights and articles on Artificial Intelligence"
+site_author: "Harsh Malik"
+
+theme:
+  name: material
+  favicon: images/favicon.png
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - search.index
+    
+plugins:
+  - blog
+  - social
+  - search
+
+nav:
+  - Home: index.md
+  - Blog:
+      - "Introduction to AI": blog/posts/how_llms_work.md
+  - About: about.md
