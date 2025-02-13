@@ -1,7 +1,7 @@
 site_name: "Alpha AI"
 site_description: "Insights and articles on Artificial Intelligence"
 site_author: "Harsh Malik"
-site_url: "https://alphaai.in"
+site_url: "https://godhunter98.github.io/alpha_ai_blog/"
 
 theme:
   name: material
@@ -39,5 +39,6 @@ plugins:
 
 nav:
   - Home: index.md
-  - Blog: blog/
+  - Blog: 
+      -Overview: blog/index.md
   - About: about.md

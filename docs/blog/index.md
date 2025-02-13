@@ -1,2 +1,5 @@
-# Blog
+---
+title: Blog Posts
+---
 
+## 📝 Latest Posts
