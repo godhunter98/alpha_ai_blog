@@ -39,6 +39,5 @@ plugins:
 
 nav:
   - Home: index.md
-  - Blog:
-      - "Introduction to AI": blog/posts/how_llms_work.md
+  - Blog: blog/
   - About: about.md
