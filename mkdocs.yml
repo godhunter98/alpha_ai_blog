@@ -31,6 +31,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.index
+
     
 plugins:
   - blog
@@ -40,5 +41,20 @@ plugins:
 nav:
   - Home: index.md
   - Blog: 
-      -Overview: blog/index.md
+      - Overview: blog/index.md
   - About: about.md
+
+extra:
+  #this is so that the made with mkdocs is not shown, but it's usage is not recommended
+  generator: false
+
+  #this is the footer and includes all our social media links
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/godhunter98
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/harshshelby
+    # - icon: fontawesome/brands/linkedin
+      # link: https://www.linkedin.com/in/harshmalik98/
+    - icon: fontawesome/brands/discord
+      link: https://github.com/godhunter98
