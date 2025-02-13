@@ -1,16 +1,18 @@
 site_name: "Alpha AI"
 site_description: "Insights and articles on Artificial Intelligence"
 site_author: "Harsh Malik"
+site_url: "https://alphaai.in"
 
 theme:
   name: material
+  logo: images/logo.png
   favicon: images/favicon.png
   palette:
     - scheme: default
       primary: indigo
       accent: indigo
 
-      toggle:
+      toggle: 
         icon: material/brightness-7
         name: Switch to dark mode
 
