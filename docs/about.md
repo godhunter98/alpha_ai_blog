@@ -1,4 +1,4 @@
-# This website was created by Harsh Malik as part of his deep learning journey.
+# This website was created by [Harsh Malik](https://x.com/harshshelby) as a part of his deep learning journey.
 
 What began as a fascination with simple linear regression models quickly evolved into a quest to understand the intricacies of artificial intelligence. 
 My early experiments were modest—a handful of features and basic algorithms—but they laid the foundation for a much larger exploration. 

@@ -7,4 +7,4 @@ categories:
   - Basics
 ---
 
-# How do LLMs actually work in the first place and how to develop and intuition for what they are doing?
+# How do LLMs actually work in the first place and how to develop an intuition for what they are doing behind the scenes?
